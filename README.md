@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
@@ -36,3 +37,7 @@ npm run build
 ```
 
 > You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
+=======
+# maisons
+Site Maisons d'Antan - SvelteKit
+>>>>>>> 060d15b633b2277a39a8f2c1e9b3f333f82ac430
